@@ -1,5 +1,5 @@
 <h1 align="center">Hi there, I'm Axel 👋</h1>
-- 🌱 I’m currently learning ** Typescript** 
+- 🌱 I’m currently learning **Typescript**
 
 - ⚡ **I like to learn about everything.** 
 
