@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Axel 👋</h1>
-- 🌱 I’m currently learning **Typescript**
+- 🌱 I’m currently learning ** Typescript** 
 
-- ⚡ **I like to learn about everything.**
+- ⚡ **I like to learn about everything.** 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
